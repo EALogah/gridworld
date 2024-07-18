@@ -63,3 +63,24 @@ Policy evaluation and improvement with consideration for the random permutation 
 Results and Analysis
 The detailed results and analysis are provided in the report.pdf file.
 Plots are generated to visualize the value functions obtained using different methods.
+
+# Requirements
+Python 3.x
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+# Installation
+Clone the repository and install the required packages:
+
+# Usage
+Run the GridWorld.py.py and NewGridWorld.py scripts to execute the methods and generate the plots:
+
+# Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+# License
+This project is licensed under the MIT License.
