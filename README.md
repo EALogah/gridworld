@@ -66,18 +66,15 @@ Plots are generated to visualize the value functions obtained using different me
 
 # Requirements
 Python 3.x
-
 NumPy
-
 Matplotlib
-
 Seaborn
 
 # Installation
 Clone the repository and install the required packages:
 
 # Usage
-Run the GridWorld.py.py and NewGridWorld.py scripts to execute the methods and generate the plots:
+Run the GridWorld.ipynb and NewGridWorld.ipynb scripts to execute the methods and generate the plots:
 
 # Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
